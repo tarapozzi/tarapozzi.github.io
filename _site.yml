@@ -11,6 +11,7 @@ navbar:
     - text: "CV"
       href: cv.html
 
+output_dir: "docs"
 output: 
   html_document: 
    theme: cosmo
