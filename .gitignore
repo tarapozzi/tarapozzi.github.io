@@ -1,3 +1,4 @@
+# files that I don't want git to track
 .Rproj.user
 .Rhistory
 .RData
