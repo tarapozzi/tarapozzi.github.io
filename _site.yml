@@ -6,6 +6,8 @@ navbar:
       href: index.html
     - text: "Research"
       href: research.html
+    - text: "Delta Adaptation"
+      href: delta.html
     - text: "CV"
       href: cv.html
 
