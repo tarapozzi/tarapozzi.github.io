@@ -1,11 +1,9 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Tara Pozzi"
   left:
     - text: "Home"
       href: index.html
-    - text: "Research"
-      href: research.html
     - text: "Delta Adaptation"
       href: delta.html
     - text: "CV"

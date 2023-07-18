@@ -2,9 +2,11 @@
 title: "Tara Pozzi"
 about:
   template: trestles
-  image: img/Tara-Pozzi.png
+  image: images/Tara-Pozzi.png
 ---
 
-Hello! I am a PhD student in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow. My research focuses on behavior and decision-making processes that influence local and regional adaptive capacity and resilience to climate impacts. Prior to my time at UC Davis, I completed my masters at Boise State University in Human-Environment Systems studying technology adoption for flood risk management in the Pacific Northwest.
+Hello! I am a PhD student in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow. Prior to my time at UC Davis, I completed my masters at Boise State University in Human-Environment Systems studying technology adoption for flood risk management in the Pacific Northwest. 
 
-My interest climate adaptation stems from growing up in the Salinas Valley. I saw from a young age the benefits of collaboration to navigate environmental uncertainty and have been inspired in how to scale-up strategic collaboration to navigate physical vulnerability from increased variability of water resources. I also am an advocate for those with visible and invisible disabilities that are disproportionately impacted by climate change. My research focus aligns both my social and environmental vulnerability interests to improve meaningful engagement of impacted individuals.
+My research investigates how to build capacity for effective and equitable climate adaptation solutions. As a mixed-methods social scientist, I conduct studies that use both qualitative such as interviews and focus groups, and quantitative methodologies such as social network analysis and Bayesian statistics. I pull from these different methods to investigate three main research streams that contribute to building capacity: **climate change education, policy learning**, and **collaborative governance**. 
+
+I am currently updating my website my research projects in each of these topic areas. Please check out my [Delta Adaptation](delta.html) page for specific information on my research regarding collaborative governance. 
