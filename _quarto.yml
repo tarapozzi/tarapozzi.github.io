@@ -1,20 +1,22 @@
 name: "my-website"
-navbar:
-  title: "Tara Pozzi"
-  left:
-    - text: "Home"
-      href: index.html
-    - text: "Research"
-      href: research.html
-    - text: "CV"
-      href: cv.html
+website:
+  navbar:
+    title: "Tara Pozzi"
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Research"
+        file: research.qmd
+      - text: "CV"
+        file: cv.qmd
+        
+
 
 project:
   type: website
   output-dir: docs
 output: 
   html_document: 
-   theme: flatly
+   theme: darkly
    css: style.css
-   
-   ## render not working -- maybe bc i switched to qmd
