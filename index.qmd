@@ -1,0 +1,11 @@
+---
+title: "About Me"
+about:
+  template: trestles
+  image: images/Tara-Pozzi.png
+---
+Hello! I am a PhD student in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow. Prior to my time at UC Davis, I completed my masters at Boise State University in Human-Environment Systems studying technology adoption for flood risk management in the Pacific Northwest.
+
+My research investigates how to build capacity for effective and equitable climate adaptation solutions. As a mixed-methods social scientist, I conduct studies that use both qualitative such as interviews and focus groups, and quantitative methodologies such as social network analysis and Bayesian statistics. I pull from these different methods to investigate three main research streams that contribute to building capacity: **climate change education, policy learning**, and **collaborative governance**.
+
+I am currently updating my website my research projects in each of these topic areas. Please check out my [Delta Adaptation](delta.html) page for specific information on my research regarding collaborative governance.
