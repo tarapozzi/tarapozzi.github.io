@@ -4,15 +4,15 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Delta Adaptation"
-      href: delta.html
+    - text: "Research"
+      href: research.html
     - text: "CV"
       href: cv.html
 
 output_dir: "docs"
 output: 
   html_document: 
-   theme: yeti
+   theme: flatly
    css: style.css
    
    ## render not working -- maybe bc i switched to qmd

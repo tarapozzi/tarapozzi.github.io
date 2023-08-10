@@ -1,46 +1,46 @@
 /* Taken from allisonhorst.github.io & lizawood.github.io*/
 /*-- scss:defaults --*/
 
-
-// Colors
+//Colors
 $white: #FFFFFF;
-$darkbluegreen: #004B57;
-$lightbluegreen: #006A89;
-$darkgray: #2C2C2C;
+$purpleblue: #6600FF;
+$bluegrey: #CCCCFF;
+$almostblack: #333300;
 $gray: #949799;
 $lightgray: #E5E5E5;
-$ltblue: #AED3E3;
+$blue: #0000FF;
 
 
 // Base document colors
-$navbar-bg: $lightbluegreen; // navbar
+$navbar-bg: $purpleblue; // navbar
 $navbar-fg: $white; // navbar foreground elements
-$navbar-hl: $ltblue; // highlight color when hovering over navbar links
+$navbar-hl: $lightgray; // highlight color when hovering over navbar links
 $body-bg: $white; // page background 
-$body-color: $darkgray; // page text 
+$body-color: $almostblack; // page text 
 $footer-bg: $lightgray; // footer 
-$link-color: $darkbluegreen; // hyperlinks 
+$link-color: $blue; // hyperlinks 
 
 // Inline code
 $code-bg: $lightgray; // inline code background color
-$code-color: $darkgray; // inline code text color
+$code-color: $almostblack; // inline code text color
 
 // Code blocks
 $code-block-bg: $white; // code block background color
 
 h1 {
-  color: $darkbluegreen;
+  text-align: center;
+  color: $darkbluegreen
 }
 
 h2 {
-  color: $lightbluegreen;
+  color: $purpleblue;
 }
 
 div.quarto-about-trestles .about-entity .about-link {
     color: #fcf9f4 !important;
     text-decoration: none;
     border: none; 
-    background-color: #006A89;
+    background-color: #6600FF;
 }
 
 .navbar-title {
