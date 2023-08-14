@@ -12,18 +12,21 @@ h1.title, h2.subtitle, h3.subtitle {
 ### Education
 
 Ph.D., Ecology
+
 Areas of Emphasis: Environmental Policy 
 <span style="float:right;">**2021 – present**</span> 
 Designated Emphasis: Computational Social Science
 University of California Davis, Davis, CA
 
 M.S., Biology
+
 Areas of Emphasis: Human - Environment Systems <span style="float:right;">**2021**</span>
 Thesis: Understanding the barriers and facilitators of lidar adoption for flood risk management in the Pacific Northwest, U.S.
 Boise State University, Boise, ID
 
 
 B.S., Civil, Environmental, and Sustainable Engineering
+
 Areas of Emphasis: Water Resource Engineering <span style="float:right;">**2015**</span>
 Thesis: Homeless Garden Project
 Santa Clara Unviersity, Santa Clara, CA
