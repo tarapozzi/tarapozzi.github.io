@@ -16,16 +16,6 @@ Media:
 
 ------------------------------------------------------------------------
 
-#### Evaluating the impact of a climate change educational course for UC Davis
-
-Abstract: Investment in transformative climate change education for graduate students can support emergent scholars and practitioners to produce more ethical, effective, and relevant research to address climate inequities. We developed a transformative climate change education program called Asking Different Questions in Climate Change Science that focuses on equity. This program is guided by a theory of change we developed based on a diverse body of literature and empirical examples, as well as qualitative data from 20 UC Davis faculty and students. Through the investigation, we found that individual characteristics such as motivations, lived experiences, and academic background, as well as contextual characteristics such as an individual's social, cultural, and institutional environments of support, impact an individual's experience with doing equity-focused research and practices. We argue that the integration of equity in climate change education can give graduate students the skills, knowledge, and resources to understand and respond to climate change problems more effectively.
-
-Outputs:
-
-**Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) \[Revise and Resubmit\]
-
-------------------------------------------------------------------------
-
 #### Learning in the Delta Science Enterprise
 
 Abstract: Science is critical for learning and adaptation of policy and governance systems. Increasingly, science is produced in the context of a science enterprise: a complex, polycentric institutional arrangement featuring multiple science forums and actors. The characteristics of these polycentric systems likely matter for whether and to what extent science supports policy-relevant learning. Limited research, however, has examined how science enterprises function as polycentric systems and how they can be governed to support learning. Using a survey of actors involved in the science enterprise of the California Delta, we integrate the collective learning framework and ecology of games framework to analyze individual and forum-level drivers of learning. The results suggest that social drivers such as leadership, trust, and engagement that are most highly correlated with perceived learning. While science enterprise actors often perceive administrative and financial resource limitations, those constraints are less important for learning than social drivers.
@@ -41,3 +31,13 @@ Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. (2022). Governing the De
 Media:
 
 [Delta Stewardship Council Social Science Integration by Maven's Notebook](https://mavensnotebook.com/2023/03/16/delta-stewardship-council-integrating-social-sciences-in-the-delta/)
+
+------------------------------------------------------------------------
+
+#### Evaluating the impact of a climate change educational course for UC Davis
+
+Abstract: Investment in transformative climate change education for graduate students can support emergent scholars and practitioners to produce more ethical, effective, and relevant research to address climate inequities. We developed a transformative climate change education program called Asking Different Questions in Climate Change Science that focuses on equity. This program is guided by a theory of change we developed based on a diverse body of literature and empirical examples, as well as qualitative data from 20 UC Davis faculty and students. Through the investigation, we found that individual characteristics such as motivations, lived experiences, and academic background, as well as contextual characteristics such as an individual's social, cultural, and institutional environments of support, impact an individual's experience with doing equity-focused research and practices. We argue that the integration of equity in climate change education can give graduate students the skills, knowledge, and resources to understand and respond to climate change problems more effectively.
+
+Outputs:
+
+**Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) \[Revise and Resubmit\]
