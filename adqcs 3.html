@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>adqcs.knit</title>
+
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Tara Pozzi</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research</a>
+</li>
+<li>
+  <a href="cv.html">CV</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+
+</div>
+
+
+<p>+++ title = “Evaluating the impact of a climate change educational
+course for UC Davis” date = 2019-04-19T00:00:00 draft = false</p>
+<div id="authors.-comma-separated-list-e.g.-bob-smith-david-jones."
+class="section level1">
+<h1>Authors. Comma separated list,
+e.g. <code>["Bob Smith", "David Jones"]</code>.</h1>
+<p>authors = [“Tara Pozzi”, “Elaina Legg”, “Sarah McCullough”, “Mark
+Lubell”]</p>
+</div>
+<div id="publication-type." class="section level1">
+<h1>Publication type.</h1>
+</div>
+<div id="legend" class="section level1">
+<h1>Legend:</h1>
+</div>
+<div id="uncategorized" class="section level1">
+<h1>0 = Uncategorized</h1>
+</div>
+<div id="conference-paper" class="section level1">
+<h1>1 = Conference paper</h1>
+</div>
+<div id="journal-article" class="section level1">
+<h1>2 = Journal article</h1>
+</div>
+<div id="manuscript" class="section level1">
+<h1>3 = Manuscript</h1>
+</div>
+<div id="report" class="section level1">
+<h1>4 = Report</h1>
+</div>
+<div id="book" class="section level1">
+<h1>5 = Book</h1>
+</div>
+<div id="book-section" class="section level1">
+<h1>6 = Book section</h1>
+<p>publication_types = [“2”]</p>
+</div>
+<div id="publication-name-and-optional-abbreviated-version."
+class="section level1">
+<h1>Publication name and optional abbreviated version.</h1>
+<p>publication = “In <em>Climate change education</em>”
+publication_short = “In <em>Climate change education</em>”</p>
+</div>
+<div id="abstract-and-optional-shortened-version."
+class="section level1">
+<h1>Abstract and optional shortened version.</h1>
+<p>abstract = “Investment in transformative climate change education for
+graduate students can support emergent scholars to produce more ethical,
+effective, and relevant research to address climate inequities. We
+develop a transformative climate change education program called Asking
+Different Questions in Climate Change Science. This program is guided by
+a theory of change we developed based on a diverse body of literature
+and empirical examples, as well as qualitative data from 20 UC Davis
+faculty and students. Through the investigation, we found that
+individual characteristics such as motivations, lived experiences, and
+academic background, as well as contextual characteristics such as an
+individual’s social, cultural, and institutional environments of
+support, impact an individual’s experience with doing equity-focused
+research and practices. We argue that the integration of equity in
+climate change education can give graduate students the skills,
+knowledge, and resources to understand and respond to climate change
+problems more effectively.”</p>
+</div>
+<div id="featured-image-thumbnail-optional" class="section level1">
+<h1>Featured image thumbnail (optional)</h1>
+<p>image_preview = “”</p>
+</div>
+<div id="is-this-a-selected-publication-truefalse"
+class="section level1">
+<h1>Is this a selected publication? (true/false)</h1>
+<p>featured = false</p>
+</div>
+<div id="projects-optional." class="section level1">
+<h1>Projects (optional).</h1>
+</div>
+<div id="associate-this-publication-with-one-or-more-of-your-projects."
+class="section level1">
+<h1>Associate this publication with one or more of your projects.</h1>
+</div>
+<div id="simply-enter-your-projects-filename-without-extension."
+class="section level1">
+<h1>Simply enter your project’s filename without extension.</h1>
+</div>
+<div
+id="e.g.-projects-deep-learning-references-contentprojectdeep-learning.md."
+class="section level1">
+<h1>E.g. <code>projects = ["deep-learning"]</code> references
+<code>content/project/deep-learning.md</code>.</h1>
+</div>
+<div id="otherwise-set-projects-." class="section level1">
+<h1>Otherwise, set <code>projects = []</code>.</h1>
+<p>projects = []</p>
+</div>
+<div id="tags-optional." class="section level1">
+<h1>Tags (optional).</h1>
+</div>
+<div
+id="set-tags-for-no-tags-or-use-the-form-tags-a-tag-another-tag-for-one-or-more-tags."
+class="section level1">
+<h1>Set <code>tags = []</code> for no tags, or use the form
+<code>tags = ["A Tag", "Another Tag"]</code> for one or more tags.</h1>
+<p>tags = []</p>
+</div>
+<div id="links-optional." class="section level1">
+<h1>Links (optional).</h1>
+<p>#url_pdf = #url_preprint = [add prepint if i can find] #url_code =
+“#” #url_dataset = “#” #url_project = “#” #url_slides = “#” #url_video =
+“#” #url_poster = “#” #url_source = “#”</p>
+</div>
+<div id="custom-links-optional." class="section level1">
+<h1>Custom links (optional).</h1>
+</div>
+<div
+id="uncomment-line-below-to-enable.-for-multiple-links-use-the-form-...-...-...."
+class="section level1">
+<h1>Uncomment line below to enable. For multiple links, use the form
+<code>[{...}, {...}, {...}]</code>.</h1>
+<p>url_custom = [{name = “Link”, url = “<a
+href="https://onlinelibrary.wiley.com/doi/full/10.1111/gove.12409"
+class="uri">https://onlinelibrary.wiley.com/doi/full/10.1111/gove.12409</a>”}]</p>
+</div>
+<div id="digital-object-identifier-doi" class="section level1">
+<h1>Digital Object Identifier (DOI)</h1>
+</div>
+<div id="doi-doi" class="section level1">
+<h1>doi = “doi”</h1>
+</div>
+<div id="does-this-page-contain-latex-math-truefalse"
+class="section level1">
+<h1>Does this page contain LaTeX math? (true/false)</h1>
+<p>math = false</p>
+</div>
+<div id="does-this-page-require-source-code-highlighting-truefalse"
+class="section level1">
+<h1>Does this page require source code highlighting? (true/false)</h1>
+<p>highlight = false</p>
+</div>
+<div id="featured-image" class="section level1">
+<h1>Featured image</h1>
+</div>
+<div
+id="place-your-image-in-the-staticimg-folder-and-reference-its-filename-below-e.g.-image-example.jpg."
+class="section level1">
+<h1>Place your image in the <code>static/img/</code> folder and
+reference its filename below,
+e.g. <code>image = "example.jpg"</code>.</h1>
+<p>[header] image = “” caption = “”</p>
+<p>+++</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
