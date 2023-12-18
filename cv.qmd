@@ -7,7 +7,7 @@ h1.title, h2.subtitle, h3.subtitle {
 }
 </style>
 
-##### Updated August 2023
+##### Updated December 2023
 
 ### Education
 
@@ -40,13 +40,15 @@ Santa Clara Unviersity, Santa Clara, CA
 #### Manuscripts in preparation
 **Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) [Revise and Resubmit]
 
-Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.** Knowledge isn't power: Learning in polycentric governance systems. (Review of Policy Research) [Under Review]
+Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.** Knowledge isn't power: Learning in polycentric governance systems. (Review of Policy Research) [Revise and Resubmit]
 
-Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. Learning through Adaptive Management in the California Delta Science Enterprise. (Policy Studies Journal) [Under Review]
+Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. Learning through Adaptive Management in the California Delta Science Enterprise. (Policy Studies Journal) [Revise and Resubmit]
 
-**Pozzi, T.** Zufall, E., Gmoser-Dasklakis, K., & Vantaggiato, F. Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area (Policy Studies Journal) [Under Review]
+**Pozzi, T.** Zufall, E., Gmoser-Dasklakis, K., & Vantaggiato, F. Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area (Policy Studies Journal) [Revise and Resubmit]
 
 #### Reports
+**Pozzi, T.**, Lubell, M., and Correa, L. (2023). The governance of climate adaptation in the California Delta: Summary report. *Report in development for the Delta Science Fellowship.* UC Davis. 
+
 **Pozzi, T.** & Lubell, M. (2023). Evolving the monitoring enterprise to meet adaptive management needs in the California Delta. Center for Environmental Policy and Behavior, UC Davis.
 
 Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. (2022). Governing the Delta Science Enterprise: Results from a Stakeholder Survey. Center for Environmental Policy and Behavior, UC Davis. 
@@ -73,7 +75,7 @@ Ruwe, C., **Pozzi, T.**, & Miller, J. (2015). Homeless garden project. Civil, En
 ***
 
 ### Fellowships and awards
-2023 Henry A. Jastro Research Fellowship 
+2023 Henry A. Jastro Research Fellowship - $3,000
 
 2023 Public Scholars for the Future - $1,000
 
@@ -88,24 +90,27 @@ Ruwe, C., **Pozzi, T.**, & Miller, J. (2015). Homeless garden project. Civil, En
 ***
 
 ### Presentations
-#### Invited talks
-**Pozzi, T.** (2021) “Mapping for resilience: A storymap about using lidar to address Idaho’s Challenges”. University of Idaho GIS Day (virtual). 
+#### Applied talks
+**Pozzi, T.**, Lubell, M., and Correa, L. (2023) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Interagency Adaptive Management Integration Team (virtual). 
 
-#### Industry talks
-**Pozzi, T.**, & Lubell, M. (2023) A social science perspective on the monitoring enterprise (virtual).
+**Pozzi, T.**, & Lubell, M. (2023) "A social science perspective on the monitoring enterprise." Presented for: Collaborative Adaptive Management Team (virtual). 
 
-Lubell, M., & **Pozzi, T.** (2023) “Summary of Science Governance Research”. Delta Stewardship Council Meeting (in-person). 
+Lubell, M., & **Pozzi, T.** (2023) “Summary of Science Governance Research”. Presented for: Delta Stewardship Council Meeting (in-person). 
 
-**Pozzi, T.** (2021) “ State of lidar adoption in Idaho”. Elevation Technical Working Group Monthly Meeting (virtual). 
+**Pozzi, T.** (2021) “State of lidar adoption in Idaho”. Elevation Technical Working Group Monthly Meeting (virtual). 
 
 **Pozzi, T.** (2020) “Current State of Lidar in Flood Risk Management in Idaho”. Webinar (virtual).
 
 #### Campus talks
+**Pozzi, T.** (2021) “Mapping for resilience: A storymap about using lidar to address Idaho’s Challenges”. University of Idaho GIS Day (virtual). 
+
 **Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. 3-Minute Thesis Competition Finals (in-person). 
 
 **Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. Biological Science Graduate Student Proposal Showcase (in-person). 
 
 #### Conference activity
+**Pozzi, T.**, Lubell, M., Heikkila, T., and Gerlak, A. (2023) Learning through Adaptive Management in the California Delta Science Enterprise. Midwest Political Science Association (virtual). 
+
 **Pozzi, T.** & Zufall, E. (2023) “Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area”. Conference on Policy Process Research (in person). 
 
 **Pozzi, T.** (2020) “Technology Adoption in Flood Risk Management: A Case Study in Idaho”. Natural Hazards Workshop (virtual).
@@ -136,9 +141,11 @@ Instructor. R-Davis, UC Davis <span style="float:right;">**2022 – present**</s
 Readership. Public Land Governance, UC Davis. <span style="float:right;">**2021**</span> 
 
 #### Mentoring
+Toby Jacob (Undergraduate intern, BS Environmental Policy Analysis and Planning 2027).<span style="float:right;">**2023 – present**</span> 
+
 Emily Denio (Undergraduate intern, BS Environmental Science and Policy 2025).<span style="float:right;">**2023 – present**</span> 
 
-Eden Winniford (Research assistant, BS Environmental Science and Policy 2023).<span style="float:right;">**2023 – present**</span> 
+Eden Winniford (Research assistant, BS Environmental Science and Policy 2023).<span style="float:right;">**2023**</span> 
 
 Elaina Legg (Research assistant, BS Communication and Psychology 2023). <span style="float:right;">**2022 – 2023**</span> 
 
@@ -175,7 +182,6 @@ Organizer. GRFP Review Group. <span style="float:right;">**2020**</span>
 
 ### Certificates
 Institutional Review Board Certification in Social and Behavioral Responsible Conduct of Research <span style="float:right;">**2021**</span> 
-
 CONVERGE Disaster Training Modules, Natural Hazards Center: Social Vulnerability and Disasters, Disaster Mental Health. <span style="float:right;">**2021**</span> 
 
 ***
