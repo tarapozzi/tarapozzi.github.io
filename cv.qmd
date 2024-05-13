@@ -7,7 +7,7 @@ h1.title, h2.subtitle, h3.subtitle {
 }
 </style>
 
-##### Updated December 2023
+##### Updated May 2024
 
 ### Education
 
@@ -35,12 +35,12 @@ Santa Clara Unviersity, Santa Clara, CA
 
 ### Publications
 #### Peer-reviewed publications
+Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.** Knowledge isn't power: Learning in polycentric governance systems. *Review of Policy Research.*
+
 **Pozzi, T.**, & Hillis, V. (2023) Social networks impact flood risk mitigation behavior: A case study of lidar adoption in the Pacific Northwest, US. *Climate Risk Management 41*. https://doi.org/10.1016/j.crm.2023.100527.
 
 #### Manuscripts in preparation
 **Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) [Revise and Resubmit]
-
-Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.** Knowledge isn't power: Learning in polycentric governance systems. (Review of Policy Research) [Revise and Resubmit]
 
 Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. Learning through Adaptive Management in the California Delta Science Enterprise. (Policy Studies Journal) [Revise and Resubmit]
 
@@ -91,6 +91,12 @@ Ruwe, C., **Pozzi, T.**, & Miller, J. (2015). Homeless garden project. Civil, En
 
 ### Presentations
 #### Applied talks
+**Pozzi, T.** (2024) "Delta Adaptation Governance." Presented for: Early Career Leadership Workshop (in-person).
+
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Mapping the Adaptation Governance Network of the Delta: A Mixed-Methods Approach." Presented for: CA Department of Water Resources Climate Matrix (in-person).
+
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Delta Stewardship Council's Delta Adapts Program (virtual). 
+
 **Pozzi, T.**, Lubell, M., and Correa, L. (2023) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Interagency Adaptive Management Integration Team (virtual). 
 
 **Pozzi, T.**, & Lubell, M. (2023) "A social science perspective on the monitoring enterprise." Presented for: Collaborative Adaptive Management Team (virtual). 
@@ -109,6 +115,14 @@ Lubell, M., & **Pozzi, T.** (2023) “Summary of Science Governance Research”.
 **Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. Biological Science Graduate Student Proposal Showcase (in-person). 
 
 #### Conference activity
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights in overcoming barriers to equitable adaptation in the Sacramento-San Joaquin Delta." State of the Estuary (in-person). 
+
+**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024). "Leveraging Partnerships in the  Environmental Justice Movement: A Case Study in the California Delta." Conference on Policy Process Research (in-person).
+
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights in overcoming barriers to equitable adaptation in the Sacramento-San Joaquin Delta." UC Davis CAES Symposium (in-person). 
+
+**Pozzi, T.**, and Lubell, M. (2024) "Strategies to overcome barriers to equitable adaptation planning in the California Delta." Midwest Political Science Association (in-person). 
+
 **Pozzi, T.**, Lubell, M., Heikkila, T., and Gerlak, A. (2023) Learning through Adaptive Management in the California Delta Science Enterprise. Midwest Political Science Association (virtual). 
 
 **Pozzi, T.** & Zufall, E. (2023) “Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area”. Conference on Policy Process Research (in person). 
