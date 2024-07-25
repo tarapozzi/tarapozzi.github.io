@@ -6,7 +6,9 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Research"
+      - text: "Project Highlight: Delta Adaptation"
+        file: delta.qmd
+      - text: "Research Projects"
         file: research.qmd
       - text: "CV"
         file: cv.qmd

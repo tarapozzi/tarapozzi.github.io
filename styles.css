@@ -3,12 +3,12 @@
 
 //Colors
 $white: #FFFFFF;
-$purpleblue: #6600FF;
+$purpleblue: #577296;
 $bluegrey: #CCCCFF;
-$almostblack: #333300;
+$almostblack: #162B24;
 $gray: #949799;
 $lightgray: #E5E5E5;
-$blue: #0000FF;
+$blue: #F0C7C9;
 
 
 // Base document colors
@@ -29,18 +29,18 @@ $code-block-bg: $white; // code block background color
 
 h1 {
   text-align: center;
-  color: $darkbluegreen
+  color: $577296
 }
 
 h2 {
-  color: $purpleblue;
+  color: $577296;
 }
 
 div.quarto-about-trestles .about-entity .about-link {
     color: #fcf9f4 !important;
     text-decoration: none;
     border: none; 
-    background-color: #6600FF;
+    background-color: #577296;
 }
 
 .navbar-title {

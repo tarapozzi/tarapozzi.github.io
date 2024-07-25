@@ -1,0 +1,12 @@
+---
+title: "Teaching & Mento[R]ing"
+format: html
+editor: visual
+website: 
+  navbar: 
+    background: darkolivegreen
+---
+
+### Teaching Philosophy
+
+My teaching experience is primarily composed of teaching

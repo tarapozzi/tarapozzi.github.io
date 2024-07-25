@@ -1,11 +1,21 @@
 ---
-title: "Adaptation planning in the Delta"
+title: "Collaborative governance of climate adaptation in the Sacramento - San Joaquin Delta"
 about:
   template: trestles
-  image: img/delta.jpeg
+website: 
+  navbar: 
+    background: darkolivegreen
 ---
 
-As the main source of water supply for two-thirds of California, a unique biodiversity hot spot, and home to many communities, the Sacramento - San Joaquin Delta is known as the *heart* of California. Impacted by flooding, water shortage, extreme heat, and wildfire, my research explores how human communities in the Delta are adapting to climate vulnerabilities and how they can leverage and build their partnerships to build social, technical, and financial capital.
+Reducing impacts and harm from flooding, extreme heat, poor air and water quality require collaboration between a complex network of government agencies, non-governmental organizations, communities, and Tribes where the quality and effectiveness of relationships really matter. The Delta landscape is a mosaic of urban and rural, public and private, dry and wet landscapes, and climate change will introduce new interdependencies between these functionally disparate places in the region. 
+
+![](images/delta_adapation_schematic.png)
+
+Mapping the network of organizations and collaborative initiatives that plan and implement adaptation strategies like infrastructure upgrades and climate-informed policies will provide a baseline understanding how the network is working and where it is failing. We can then use this information to make data-driven recommendations to intentionally improve it. I utilize interviews with key actors understand the in-depth governance players and needs and an online survey to understand the broader range of practitioners' policy preferences and most important collaborations.
+
+These data will provide a synthesis of the landscape of adaptation governance in a palatable way. Practitioners will be able to see where they are in the network, potentially find new collaborators, and understand ways they can be more strategic about their participation. Government agencies will be able to understand the most meaningful engagement strategies and how they can target their investments to benefit rural and marginalized communities moving forward.
+
+The Delta is in a pivotal moment where practitioners are learning to leverage their partnerships for positive social and environmental change - knowing the governance landscape is a key step in strengthening this effort. 
 
 ------------------------------------------------------------------------
 
@@ -13,15 +23,25 @@ As the main source of water supply for two-thirds of California, a unique biodiv
 
 My research project asks three main questions:
 
-1.  How are Delta communities adapting to climate change?
-2.  What is the structure (e.g., organizations, coalitions, forums) of the adaptation governance network in the Delta?
-3.  What partnerships models have been effective in adaptation planning successes (e.g., receiving grant funding, implementing a project, developing a Climate Adaptation Plan)?
+1.  Who is involved in climate adaptation and what are they doing?
+
+2.  What are the top governance challenges and preferred adaptation strategies?
+
+3.  What is the structure of the adaptation governance network and how well is it functioning? How does this vary across urban and rural land use contexts?
 
 ------------------------------------------------------------------------
 
-#### **Research products**
+#### Research Products
 
--   Report based on interview findings about governance challenges/successes for adaptation planning, major collaborative forums, and recommendations to support partnered adaptation efforts
+2024 State of the Estuary Poster
+
+![](images/SOE_Poster_031224_updated_TBP.png)
+
+------------------------------------------------------------------------
+
+#### **Upcoming Research Products**
+
+-   Report based on interview and survey findings about governance challenges/successes for adaptation planning, major collaborative forums, and recommendations to support partnered adaptation efforts
 
 -   Report based on survey findings with a supplementary website that will host a map of the adaptation governance network for the Delta and key survey results
 
@@ -29,42 +49,8 @@ My research project asks three main questions:
 
 ------------------------------------------------------------------------
 
-#### **Project timeline**
+**More information:**
 
-January - March 2023:
+[Delta Science Tracker](https://sciencetracker.deltacouncil.ca.gov/node/52366)
 
--   Develop research design and interview question protocol
-
-April 2023 - August 2023:
-
--   Conduct interviews with individuals involved in adaptation in the Delta
-
--   Develop preliminary findings for governance successes/challenges, partnership models, and network
-
--   Create inventory of adaptation efforts in the Delta and adaptation governance network based on information available online
-
-September 2023 - December 2023:
-
--   Create online survey to gather quantitative measures of interview findings
-
--   Distribute survey to individuals who may be involved in adaptation in the Delta
-
-January 2024 - March 2024:
-
--   Share a report with key findings from the interviews
-
--   Analyze survey data
-
-April 2024 - August 2024:
-
--   Publish online resource that will house a map of the adaptation governance network, descriptive plots of the survey results, and a page to provide feedback on results
-
--   Produce a report summarizing the survey results and key takeaways
-
--   Produce shareable video presentation of results
-
-------------------------------------------------------------------------
-
-**Interested in partaking in an interview or speaking about this project? Check out my interview flyer below with details on how to contact me.**
-
-![](images/White%20Simple%20Recruitment%20Flyer.png)
+[Delta Science Fellows Factsheet](https://deltacouncil.ca.gov/pdf/science-program/information-sheets/2022-07-21-delta-science-fellows-2022-info-sheet.pdf)

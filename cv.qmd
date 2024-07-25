@@ -1,209 +1,223 @@
 ---
 title: "CV"
+website: 
+  navbar: 
+    background: darkolivegreen
 ---
+
+```{=html}
 <style type="text/css">
 h1.title, h2.subtitle, h3.subtitle {
   text-align: center;
 }
 </style>
-
-##### Updated May 2024
+```
+##### Updated July 2024
 
 ### Education
 
-Ph.D., Ecology
+**Ph.D., Ecology:** *University of California Davis, Davis, CA*
 
-Areas of Emphasis: Environmental Policy 
-<span style="float:right;">**2021 – present**</span> 
+Areas of Emphasis: Environmental Policy [**2021 – present**]{style="float:right;"}
+
 Designated Emphasis: Computational Social Science
-University of California Davis, Davis, CA
 
-M.S., Biology
+**M.S., Biology:** *Boise State University, Boise, ID*
 
-Areas of Emphasis: Human - Environment Systems <span style="float:right;">**2021**</span>
+Areas of Emphasis: Human - Environment Systems [**2021**]{style="float:right;"}
+
 Thesis: Understanding the barriers and facilitators of lidar adoption for flood risk management in the Pacific Northwest, U.S.
-Boise State University, Boise, ID
 
+**B.S., Civil Engineering:** *Santa Clara University, Santa Clara, CA*
 
-B.S., Civil, Environmental, and Sustainable Engineering
+Areas of Emphasis: Water Resource Engineering [**2015**]{style="float:right;"}
 
-Areas of Emphasis: Water Resource Engineering <span style="float:right;">**2015**</span>
 Thesis: Homeless Garden Project
-Santa Clara Unviersity, Santa Clara, CA
 
-***
+------------------------------------------------------------------------
 
 ### Publications
-#### Peer-reviewed publications
-**Pozzi, T.** Zufall, E., Gmoser-Dasklakis, K., & Vantaggiato, F. Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area (Policy Studies Journal) [Accepted]
 
-Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.** Knowledge isn't power: Learning in polycentric governance systems. *Review of Policy Research.*
+#### Peer-reviewed publications
+
+**Pozzi, T.** Zufall, E., Gmoser-Dasklakis, K., & Vantaggiato, F. (2024). Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area. *Policy Studies Journal*. https://doi.org/10.1111/psj.12549
+
+Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.** (2024). Knowledge isn't power: Learning in polycentric governance systems. *Review of Policy Research.* https://doi.org/10.1111/ropr.12606
 
 **Pozzi, T.**, & Hillis, V. (2023) Social networks impact flood risk mitigation behavior: A case study of lidar adoption in the Pacific Northwest, US. *Climate Risk Management 41*. https://doi.org/10.1016/j.crm.2023.100527.
 
 #### Manuscripts in preparation
-**Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) [Revise and Resubmit]
 
-Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. Learning through Adaptive Management in the California Delta Science Enterprise. (Policy Studies Journal) [Revise and Resubmit]
+Lubell, M., **Pozzi, T.**, Heikkila, T., Gerlak, A. and Rittelmeyer, P. (2024). Learning through Adaptive Management in the California Delta Science Enterprise. *Policy Studies Journal.* \[Conditionally Accepted\]
+
+**Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) \[Revise and Resubmit\]
+
+**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024) Choosing Partners in the Environmental Justice Movement: A Case Study in the California Delta. \[In prep\]
+
+**Pozzi, T.** and Lubell, M. (2024) Strategies to overcome barriers to equitable adaptation planning in the California Delta. \[In prep\]
 
 #### Reports
-**Pozzi, T.**, Lubell, M., and Correa, L. (2023). The governance of climate adaptation in the California Delta: Summary report. *Report in development for the Delta Science Fellowship.* UC Davis. 
+
+**Pozzi, T.**, Lubell, M., and Correa, L. (2023). The governance of climate adaptation in the California Delta: Summary report. *Report in development for the Delta Science Fellowship.* UC Davis.
 
 **Pozzi, T.** & Lubell, M. (2023). Evolving the monitoring enterprise to meet adaptive management needs in the California Delta. Center for Environmental Policy and Behavior, UC Davis.
 
-Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. (2022). Governing the Delta Science Enterprise: Results from a Stakeholder Survey. Center for Environmental Policy and Behavior, UC Davis. 
+Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. (2022). Governing the Delta Science Enterprise: Results from a Stakeholder Survey. Center for Environmental Policy and Behavior, UC Davis.
 
-**Pozzi, T.** (2021). Understanding the barriers and facilitators of lidar adoption for flood risk management in the Pacific Northwest, U.S. Boise State University Theses and Dissertations. 
+**Pozzi, T.** (2021). Understanding the barriers and facilitators of lidar adoption for flood risk management in the Pacific Northwest, U.S. Boise State University Theses and Dissertations.
 
-Lakhina, S.J., Kocher, S., Lebeda, B., Gerber-Chavez, L., Kwok, A., Stannard, D., & **Pozzi, T.** (2021). Wildfire preparedness and evacuation planning in a pandemic: Case studies from California and Colorado. CONVERGE COVID-19 Working Group for Public Health and Social Science Research. Wonder Labs, California. https://www.wonder-labs.org/uploads/6/4/2/1/6421555/wildfire-pandemic_interface_2021_report.pdf 
+Lakhina, S.J., Kocher, S., Lebeda, B., Gerber-Chavez, L., Kwok, A., Stannard, D., & **Pozzi, T.** (2021). Wildfire preparedness and evacuation planning in a pandemic: Case studies from California and Colorado. CONVERGE COVID-19 Working Group for Public Health and Social Science Research. Wonder Labs, California. https://www.wonder-labs.org/uploads/6/4/2/1/6421555/wildfire-pandemic_interface_2021_report.pdf
 
-Ruwe, C., **Pozzi, T.**, & Miller, J. (2015). Homeless garden project. Civil, Environmental, and Sustainable Engineering Senior Theses, 34. https://scholarcommons.scu.edu/ceng_senior/34 
+Ruwe, C., **Pozzi, T.**, & Miller, J. (2015). Homeless garden project. Civil, Environmental, and Sustainable Engineering Senior Theses, 34. https://scholarcommons.scu.edu/ceng_senior/34
 
 #### Other science and policy products
+
 **Pozzi, T.**, & Heikkila, T. (2023) Governance of Adaptive Management Information Sheet.
 
 **Pozzi, T.**, & Lubell, M. (2023). Uncovering the role of science governance in the Sacramento - San Joaquin Delta. Delta Breeze.
 
-**Pozzi, T.**, Hilils, V., Glenn, N., & Enterkine, J. (2021). Knowing more, losing less through investment in High-Quality Mapping Idaho [White paper]. Boise State University. 
+**Pozzi, T.**, Hilils, V., Glenn, N., & Enterkine, J. (2021). Knowing more, losing less through investment in High-Quality Mapping Idaho \[White paper\]. Boise State University.
 
-**Pozzi, T.**, & Hilils, V. (2021). Mapping for resilience: A story about using lidar to address Idaho’s challenges [ArcGIS Storymap]. Boise State University. https://boisestate.maps.arcgis.com/apps/Cascade/index.html?appid=63fc0118b554441589d7793e1c38ff1d 
+**Pozzi, T.**, & Hilils, V. (2021). Mapping for resilience: A story about using lidar to address Idaho’s challenges \[ArcGIS Storymap\]. Boise State University. https://boisestate.maps.arcgis.com/apps/Cascade/index.html?appid=63fc0118b554441589d7793e1c38ff1d
 
-**Pozzi, T.**, Hilils, V., Glenn, N., & Enterkine, J. (2021). Assessing and promoting the use of lidar for hazard management in Idaho via collaborative research and outreach. CTP Monthly Collaboration. 
+**Pozzi, T.**, Hilils, V., Glenn, N., & Enterkine, J. (2021). Assessing and promoting the use of lidar for hazard management in Idaho via collaborative research and outreach. CTP Monthly Collaboration.
 
-**Pozzi, T.** (2021). LiDART. Anthroposphere. 
+**Pozzi, T.** (2021). LiDART. Anthroposphere.
 
-***
+------------------------------------------------------------------------
 
 ### Fellowships and awards
-2023 Henry A. Jastro Research Fellowship - $3,000
 
-2023 Public Scholars for the Future - $1,000
+2024 Henry A. Jastro Research Fellowship - \$3,000
 
-2022 Delta Science Fellowship, Delta Science Program and CA Sea Grant - $150,684
+2023 Henry A. Jastro Research Fellowship - \$3,000
 
-2022 Henry A. Jastro Research Fellowship - $3,000
+2023 Public Scholars for the Future - \$1,000
 
-2021 Weather-ready research instrument and data publication by the Natural Hazards Center - $2,500 
+2022 Delta Science Fellowship, Delta Science Program and CA Sea Grant - \$150,684
 
-2020 Boise State University Graduate College Conference Presentation Award by Boise State University - $500
+2022 Henry A. Jastro Research Fellowship - \$3,000
 
-***
+2021 Weather-ready research instrument and data publication by the Natural Hazards Center - \$2,500
+
+2020 Boise State University Graduate College Conference Presentation Award by Boise State University - \$500
+
+------------------------------------------------------------------------
 
 ### Presentations
+
 #### Applied talks
+
 **Pozzi, T.** (2024) "Delta Adaptation Governance." Presented for: Early Career Leadership Workshop (in-person).
 
 **Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Mapping the Adaptation Governance Network of the Delta: A Mixed-Methods Approach." Presented for: CA Department of Water Resources Climate Matrix (in-person).
 
-**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Delta Stewardship Council's Delta Adapts Program (virtual). 
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Delta Stewardship Council's Delta Adapts Program (virtual).
 
-**Pozzi, T.**, Lubell, M., and Correa, L. (2023) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Interagency Adaptive Management Integration Team (virtual). 
+**Pozzi, T.**, Lubell, M., and Correa, L. (2023) "Initial insights into the governance of climate adaptation planning in the Delta." Presented for: Interagency Adaptive Management Integration Team (virtual).
 
-**Pozzi, T.**, & Lubell, M. (2023) "A social science perspective on the monitoring enterprise." Presented for: Collaborative Adaptive Management Team (virtual). 
+**Pozzi, T.**, & Lubell, M. (2023) "A social science perspective on the monitoring enterprise." Presented for: Collaborative Adaptive Management Team (virtual).
 
-Lubell, M., & **Pozzi, T.** (2023) “Summary of Science Governance Research”. Presented for: Delta Stewardship Council Meeting (in-person). 
+Lubell, M., & **Pozzi, T.** (2023) “Summary of Science Governance Research”. Presented for: Delta Stewardship Council Meeting (in-person).
 
-**Pozzi, T.** (2021) “State of lidar adoption in Idaho”. Elevation Technical Working Group Monthly Meeting (virtual). 
+**Pozzi, T.** (2021) “State of lidar adoption in Idaho”. Elevation Technical Working Group Monthly Meeting (virtual).
 
 **Pozzi, T.** (2020) “Current State of Lidar in Flood Risk Management in Idaho”. Webinar (virtual).
 
 #### Campus talks
-**Pozzi, T.** (2021) “Mapping for resilience: A storymap about using lidar to address Idaho’s Challenges”. University of Idaho GIS Day (virtual). 
 
-**Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. 3-Minute Thesis Competition Finals (in-person). 
+**Pozzi, T.** (2021) “Mapping for resilience: A storymap about using lidar to address Idaho’s Challenges”. University of Idaho GIS Day (virtual).
 
-**Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. Biological Science Graduate Student Proposal Showcase (in-person). 
+**Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. 3-Minute Thesis Competition Finals (in-person).
+
+**Pozzi, T.** (2020) “Lidar uptake in Pacific Northwest”. Biological Science Graduate Student Proposal Showcase (in-person).
 
 #### Conference activity
-**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights in overcoming barriers to equitable adaptation in the Sacramento-San Joaquin Delta." State of the Estuary (in-person). 
 
-**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024). "Leveraging Partnerships in the  Environmental Justice Movement: A Case Study in the California Delta." Conference on Policy Process Research (in-person).
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights in overcoming barriers to equitable adaptation in the Sacramento-San Joaquin Delta." State of the Estuary (in-person). *Best Student Poster Award: Runner up*
 
-**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights in overcoming barriers to equitable adaptation in the Sacramento-San Joaquin Delta." UC Davis CAES Symposium (in-person). 
+**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024). "Leveraging Partnerships in the Environmental Justice Movement: A Case Study in the California Delta." Conference on Policy Process Research (in-person).
 
-**Pozzi, T.**, and Lubell, M. (2024) "Strategies to overcome barriers to equitable adaptation planning in the California Delta." Midwest Political Science Association (in-person). 
+**Pozzi, T.**, Lubell, M., and Correa, L. (2024) "Initial insights in overcoming barriers to equitable adaptation in the Sacramento-San Joaquin Delta." UC Davis CAES Symposium (in-person).
 
-**Pozzi, T.**, Lubell, M., Heikkila, T., and Gerlak, A. (2023) Learning through Adaptive Management in the California Delta Science Enterprise. Midwest Political Science Association (virtual). 
+**Pozzi, T.**, and Lubell, M. (2024) "Strategies to overcome barriers to equitable adaptation planning in the California Delta." Midwest Political Science Association (in-person).
 
-**Pozzi, T.** & Zufall, E. (2023) “Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area”. Conference on Policy Process Research (in person). 
+**Pozzi, T.**, Lubell, M., Heikkila, T., and Gerlak, A. (2023) Learning through Adaptive Management in the California Delta Science Enterprise. Midwest Political Science Association (virtual).
+
+**Pozzi, T.** & Zufall, E. (2023) “Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area”. Conference on Policy Process Research (in person).
 
 **Pozzi, T.** (2020) “Technology Adoption in Flood Risk Management: A Case Study in Idaho”. Natural Hazards Workshop (virtual).
- 
+
 **Pozzi, T.** (2020) “Technology Adoption in Flood Risk Management: A Case Study in Idaho”. International Symposium on Society and Resource Management (virtual).
 
-***
+------------------------------------------------------------------------
 
 ### Research
-Lead researcher. Mixed-methods study on the climate adaptation governance network of the Sacramento – San Joaquin Delta, under the direction of Dr. Mark Lubell and Lindsay Correa. Funded by CA Sea Grant and the Delta Science Program. <span style="float:right;">**2022 – present**</span> 
 
-Research Assistant. Data analysis for long-term monitoring needs assessment for the Collaborative Adaptive Management Team of the San Joaquin-Sacramento Delta under the direction of Dr. Mark Lubell, Dr. Louise Conrad, and Bruce DiGennaro. Funded by the Delta Science Program.<span style="float:right;">**2022 – present**</span> 
+Lead researcher. Mixed-methods study on the climate adaptation governance network of the Sacramento – San Joaquin Delta, under the direction of Dr. Mark Lubell and Lindsay Correa. Funded by CA Sea Grant and the Delta Science Program. [**2022 – present**]{style="float:right;"}
 
-Research assistant. Design and implement study for measuring the factors that influence students to conduct research with awareness of diversity, equity, and inclusion in climate change context, under direction of Dr. Mark Lubell and Dr. Sarah McCullough. Funded by Feminist Research Institute. <span style="float:right;">**2022 – present**</span> 
+Research Assistant. Data analysis for long-term monitoring needs assessment for the Collaborative Adaptive Management Team of the San Joaquin-Sacramento Delta under the direction of Dr. Mark Lubell, Dr. Louise Conrad, and Bruce DiGennaro. Funded by the Delta Science Program.[**2022 – present**]{style="float:right;"}
 
-Research assistant. Conduct survey data analysis and report writing for the Delta science enterprise, under direction of Dr. Mark Lubell. Funded by Delta Stewardship Council. <span style="float:right;">**2021 - 2022**</span> 
+Research assistant. Design and implement study for measuring the factors that influence students to conduct research with awareness of diversity, equity, and inclusion in climate change context, under direction of Dr. Mark Lubell and Dr. Sarah McCullough. Funded by Feminist Research Institute. [**2022 – present**]{style="float:right;"}
 
-Research assistant. Support academic and policy research for wildfire applications in the American west, under direction of Dr. Shefali Lakhina. Funded by Wonder Labs. <span style="float:right;">**2021**</span> 
+Research assistant. Conduct survey data analysis and report writing for the Delta science enterprise, under direction of Dr. Mark Lubell. Funded by Delta Stewardship Council. [**2021 - 2022**]{style="float:right;"}
 
-Lead researcher. Mixed-methods empirical study on lidar adoption for flood risk management in the Pacific Northwest. Social-ecological science to understand relative effect of individual and collective factors of decision-making, under direction of Dr. Vicken Hillis. Funded by the Department of Homeland Security. <span style="float:right;">**2019-2021**</span> 
+Research assistant. Support academic and policy research for wildfire applications in the American west, under direction of Dr. Shefali Lakhina. Funded by Wonder Labs. [**2021**]{style="float:right;"}
 
-***
+Lead researcher. Mixed-methods empirical study on lidar adoption for flood risk management in the Pacific Northwest. Social-ecological science to understand relative effect of individual and collective factors of decision-making, under direction of Dr. Vicken Hillis. Funded by the Department of Homeland Security. [**2019-2021**]{style="float:right;"}
+
+------------------------------------------------------------------------
 
 ### Teaching and Mentoring
-#### Teaching
-Instructor. R-Davis, UC Davis <span style="float:right;">**2022 – present**</span> 
 
-Readership. Public Land Governance, UC Davis. <span style="float:right;">**2021**</span> 
+#### Teaching
+
+Instructor. R-Davis, UC Davis [**2022 – present**]{style="float:right;"}
+
+Readership. Public Land Governance, UC Davis. [**2021**]{style="float:right;"}
 
 #### Mentoring
-Toby Jacob (Undergraduate intern, BS Environmental Policy Analysis and Planning 2027).<span style="float:right;">**2023 – present**</span> 
 
-Emily Denio (Undergraduate intern, BS Environmental Science and Policy 2025).<span style="float:right;">**2023 – present**</span> 
+Toby Jacob (Undergraduate intern, BS Environmental Policy Analysis and Planning 2027).[**2023 – present**]{style="float:right;"}
 
-Eden Winniford (Research assistant, BS Environmental Science and Policy 2023).<span style="float:right;">**2023**</span> 
+Emily Denio (Undergraduate intern, BS Environmental Science and Policy 2025).[**2023 – present**]{style="float:right;"}
 
-Elaina Legg (Research assistant, BS Communication and Psychology 2023). <span style="float:right;">**2022 – 2023**</span> 
+Eden Winniford (Research assistant, BS Environmental Science and Policy 2023).[**2023**]{style="float:right;"}
 
-Graduate student mentor. Vertically Integrated Project, Boise State University. <span style="float:right;">**2021**</span> 
+Elaina Legg (Research assistant, BS Communication and Psychology 2023). [**2022 – 2023**]{style="float:right;"}
 
-Field instructor mentor and trainer. blueFire Wilderness Therapy, Idaho.<span style="float:right;">**2018-2019**</span> 
+Graduate student mentor. Vertically Integrated Project, Boise State University. [**2021**]{style="float:right;"}
 
-***
+Field instructor mentor and trainer. blueFire Wilderness Therapy, Idaho.[**2018-2019**]{style="float:right;"}
+
+------------------------------------------------------------------------
 
 ### Service
-Facilitator. Adaptive Management Forum Day 2. <span style="float:right;">**2023**</span> 
 
-Advisory Board member. Adaptive Management Forum. <span style="float:right;">**2023**</span> 
+Davis R Users’ Group coordinator at UC Davis.[**2022 - Present**]{style="float:right;"}
 
-Davis R Users’ Group coordinator at UC Davis.<span style="float:right;">**2022 - Present**</span> 
+Facilitator. Adaptive Management Forum Day 2. [**2023**]{style="float:right;"}
 
-Co-chair. Ecology Graduate Student Association at UC Davis. <span style="float:right;">**2022 - 2023**</span> 
+Advisory Board member. Adaptive Management Forum. [**2023**]{style="float:right;"}
 
-Facilitator. Ecology Graduate Group Orientation. <span style="float:right;">**2022**</span> 
+Co-chair. Ecology Graduate Student Association at UC Davis. [**2022 - 2023**]{style="float:right;"}
 
-Facilitator. Advancing Interdisciplinary Research Workshop.<span style="float:right;">**2022**</span> 
+Facilitator. Ecology Graduate Group Orientation. [**2022**]{style="float:right;"}
 
-Member and facilitator for Ecology Symposium.
-Ecology Graduate Student Association at UC Davis.<span style="float:right;">**2021**</span> 
+Facilitator. Advancing Interdisciplinary Research Workshop.[**2022**]{style="float:right;"}
 
-Editor and contributor for student paper, Brickyard. Ecology Graduate Student Association at UC Davis.
-<span style="float:right;">**2021**</span> 
+Member and facilitator for Ecology Symposium. Ecology Graduate Student Association at UC Davis.[**2021**]{style="float:right;"}
 
-Member and facilitator. Ecological Research Association Diversity, Equity, and Inclusion Task Force. <span style="float:right;">**2021**</span> 
+Editor and contributor for student paper, Brickyard. Ecology Graduate Student Association at UC Davis. [**2021**]{style="float:right;"}
 
-Organizer. GRFP Review Group. <span style="float:right;">**2020**</span> 
+Member and facilitator. Ecological Research Association Diversity, Equity, and Inclusion Task Force. [**2021**]{style="float:right;"}
 
-***
+Organizer. GRFP Review Group. [**20202021**]{style="float:right;"}
 
-### Certificates
-Institutional Review Board Certification in Social and Behavioral Responsible Conduct of Research <span style="float:right;">**2021**</span> 
-CONVERGE Disaster Training Modules, Natural Hazards Center: Social Vulnerability and Disasters, Disaster Mental Health. <span style="float:right;">**2021**</span> 
-
-***
+------------------------------------------------------------------------
 
 ### Affiliations
-Member, American Society of Adaptation Professionals <span style="float:right;">**2022**</span> 
 
-Member, International Association of Society and Natural Resources <span style="float:right;">**2020**</span> 
+Member, American Society of Adaptation Professionals [**2022**]{style="float:right;"}
 
-
-
+Member, International Association of Society and Natural Resources [**2020**]{style="float:right;"}

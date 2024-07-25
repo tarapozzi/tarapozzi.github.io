@@ -1,20 +1,17 @@
 ---
 title: "Research"
+website: 
+  navbar: 
+    background: darkolivegreen
 ---
 
-#### Collaborative governance of climate adaptation in the Delta
+#### Environmental Justice Networks 
 
-As the main source of water supply for two-thirds of California, a unique biodiversity hot spot, and home to many communities, the Sacramento - San Joaquin Delta is known as the *heart* of California. Impacted by flooding, water shortage, extreme heat, and wildfire, my research explores how human communities in the Delta are adapting to climate vulnerabilities and how they can leverage and build their partnerships to build social, technical, and financial capital. The research combines interview and survey data and will be used to develop a governance challenges report, a network map of organizations and their partnerships, and an interactive website of the results. *Interested in learning more or receiving project updates? Send me an email at tbpozzi\[at\]ucdavis.edu.*
+Abstract: Environmental justice (EJ) groups rely on informal collaborative networks to amplify their voices and mobilize resources for addressing disproportionate environmental burdens. These networks, shaped by relationships between EJ groups and their partners, shape the effectiveness of an EJ movement to influence environmental policy and decision-making. Drawing from social movement literature, we examine how resource exchange motivations and boundary definition drivers affect EJ groups' partner preferences among EJ groups in the Sacramento-San Joaquin Delta region of California. Using network data from 21 EJ groups gathered through interviews, we implement a cross-classified generalized linear mixed model to estimate the effects of organizational attributes and collaborative participation, EJ commitment and issue focus areas, and geography on the likelihood of collaboration ties in egocentric social networks. Overall, we find evidence of both strong and weak ties occurring in partner selection. EJ groups seek partners with shared issue focus areas as well as broker organizations who participate in collaborative initiatives. Geographic proximity also plays a key role with groups preferring local partners mostly, but also finding value in partners that operate at larger geographic scales. Overall, the study provides evidence that EJ groups strategically structure personal networks to leverage resources, address issues of concern, and ultimately strengthen the EJ movement.
 
 Outputs:
 
-2024 State of the Estuary Poster ![](images/SOE_Poster_031224_updated_TBP.png)
-
-More information:
-
-[Delta Science Tracker](https://sciencetracker.deltacouncil.ca.gov/node/52366)
-
-[Delta Science Fellows Factsheet](https://deltacouncil.ca.gov/pdf/science-program/information-sheets/2022-07-21-delta-science-fellows-2022-info-sheet.pdf)
+**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024) Choosing Partners in the Environmental Justice Movement: A Case Study in the California Delta. \[In Prep\]
 
 ------------------------------------------------------------------------
 
@@ -24,7 +21,7 @@ Abstract: Science is critical for learning and adaptation of policy and governan
 
 Outputs:
 
-Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. Learning through Adaptive Management in the California Delta Science Enterprise. (Policy Studies Journal) \[Under Review\]
+Lubell, M., **Pozzi, T.**, Heikkila, T., and Gerlak, A. (2024). Learning through Adaptive Management in the California Delta Science Enterprise. (Policy Studies Journal) \[Conditionally Accepted\]
 
 **Pozzi, T.**, & Lubell, M. (2023). Uncovering the role of science governance in the Sacramento - San Joaquin Delta. Delta Breeze.
 
