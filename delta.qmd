@@ -1,27 +1,37 @@
 ---
 title: "Collaborative governance of climate adaptation in the Sacramento - San Joaquin Delta"
-about:
-  template: trestles
 website: 
   navbar: 
     background: darkolivegreen
 ---
 
-Reducing impacts and harm from flooding, extreme heat, poor air and water quality require collaboration between a complex network of government agencies, non-governmental organizations, communities, and Tribes where the quality and effectiveness of relationships really matter. The Delta landscape is a mosaic of urban and rural, public and private, dry and wet landscapes, and climate change will introduce new interdependencies between these functionally disparate places in the region. 
+#### **Project Overview**
+
+![](images/clipboard-3059754304.png)
 
 ![](images/delta_adapation_schematic.png)
 
-Mapping the network of organizations and collaborative initiatives that plan and implement adaptation strategies like infrastructure upgrades and climate-informed policies will provide a baseline understanding how the network is working and where it is failing. We can then use this information to make data-driven recommendations to intentionally improve it. I utilize interviews with key actors understand the in-depth governance players and needs and an online survey to understand the broader range of practitioners' policy preferences and most important collaborations.
+The Delta region faces numerous challenges, including flooding, extreme heat, and poor air and water quality. Addressing these issues requires collaboration among a complex network of government agencies, non-governmental organizations, communities, and Tribes.
 
-These data will provide a synthesis of the landscape of adaptation governance in a palatable way. Practitioners will be able to see where they are in the network, potentially find new collaborators, and understand ways they can be more strategic about their participation. Government agencies will be able to understand the most meaningful engagement strategies and how they can target their investments to benefit rural and marginalized communities moving forward.
+To better understand and improve the governance of this complex system, we are mapping the network of organizations and collaborative initiatives involved in planning and implementing adaptation strategies. By creating this baseline understanding, we can identify how the network is functioning and where it may be falling short.
 
-The Delta is in a pivotal moment where practitioners are learning to leverage their partnerships for positive social and environmental change - knowing the governance landscape is a key step in strengthening this effort. 
+Our research methodology involves:
+
+1.  Conducting interviews with a subset of adaptation practitioners to gain in-depth knowledge of key governance players and needs
+
+2.  Distributing an online survey to the broader Delta adaptation community to understand policy preferences and collaborative experiences
+
+This data will provide a comprehensive synthesis of the adaptation governance landscape and that we will begin to share later this year. Some of the anticipated benefits of this research include:
+
+-   Practitioners will be able to visualize their position within the network, potentially discover new collaborators, and understand how to participate more strategically
+
+-   Government agencies will gain insights into the most effective engagement strategies and learn how to target investments to benefit rural and marginalized communities
+
+Understanding the governance landscape is a key step in learning how to leverage partnerships for positive social and environmental change and investing in more effective climate adaptation strategies. 
 
 ------------------------------------------------------------------------
 
-#### **Research questions**
-
-My research project asks three main questions:
+#### **Main Research Questions**
 
 1.  Who is involved in climate adaptation and what are they doing?
 

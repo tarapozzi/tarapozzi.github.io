@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -105,26 +106,46 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
-  <div class="about-entity">
+<main class="content" id="quarto-document-content">
+
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Collaborative governance of climate adaptation in the Sacramento - San Joaquin Delta</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
 </header>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Reducing impacts and harm from flooding, extreme heat, poor air and water quality require collaboration between a complex network of government agencies, non-governmental organizations, communities, and Tribes where the quality and effectiveness of relationships really matter. The Delta landscape is a mosaic of urban and rural, public and private, dry and wet landscapes, and climate change will introduce new interdependencies between these functionally disparate places in the region.&nbsp;</p>
+
+<section id="project-overview" class="level4">
+<h4 class="anchored" data-anchor-id="project-overview"><strong>Project Overview</strong></h4>
+<p><img src="images/clipboard-3059754304.png" class="img-fluid"></p>
 <p><img src="images/delta_adapation_schematic.png" class="img-fluid"></p>
-<p>Mapping the network of organizations and collaborative initiatives that plan and implement adaptation strategies like infrastructure upgrades and climate-informed policies will provide a baseline understanding how the network is working and where it is failing. We can then use this information to make data-driven recommendations to intentionally improve it. I utilize interviews with key actors understand the in-depth governance players and needs and an online survey to understand the broader range of practitioners’ policy preferences and most important collaborations.</p>
-<p>These data will provide a synthesis of the landscape of adaptation governance in a palatable way. Practitioners will be able to see where they are in the network, potentially find new collaborators, and understand ways they can be more strategic about their participation. Government agencies will be able to understand the most meaningful engagement strategies and how they can target their investments to benefit rural and marginalized communities moving forward.</p>
-<p>The Delta is in a pivotal moment where practitioners are learning to leverage their partnerships for positive social and environmental change - knowing the governance landscape is a key step in strengthening this effort.&nbsp;</p>
+<p>The Delta region faces numerous challenges, including flooding, extreme heat, and poor air and water quality. Addressing these issues requires collaboration among a complex network of government agencies, non-governmental organizations, communities, and Tribes.</p>
+<p>To better understand and improve the governance of this complex system, we are mapping the network of organizations and collaborative initiatives involved in planning and implementing adaptation strategies. By creating this baseline understanding, we can identify how the network is functioning and where it may be falling short.</p>
+<p>Our research methodology involves:</p>
+<ol type="1">
+<li><p>Conducting interviews with a subset of adaptation practitioners to gain in-depth knowledge of key governance players and needs</p></li>
+<li><p>Distributing an online survey to the broader Delta adaptation community to understand policy preferences and collaborative experiences</p></li>
+</ol>
+<p>This data will provide a comprehensive synthesis of the adaptation governance landscape and that we will begin to share later this year. Some of the anticipated benefits of this research include:</p>
+<ul>
+<li><p>Practitioners will be able to visualize their position within the network, potentially discover new collaborators, and understand how to participate more strategically</p></li>
+<li><p>Government agencies will gain insights into the most effective engagement strategies and learn how to target investments to benefit rural and marginalized communities</p></li>
+</ul>
+<p>Understanding the governance landscape is a key step in learning how to leverage partnerships for positive social and environmental change and investing in more effective climate adaptation strategies.&nbsp;</p>
 <hr>
-<section id="research-questions" class="level4">
-<h4 data-anchor-id="research-questions"><strong>Research questions</strong></h4>
-<p>My research project asks three main questions:</p>
+</section>
+<section id="main-research-questions" class="level4">
+<h4 class="anchored" data-anchor-id="main-research-questions"><strong>Main Research Questions</strong></h4>
 <ol type="1">
 <li><p>Who is involved in climate adaptation and what are they doing?</p></li>
 <li><p>What are the top governance challenges and preferred adaptation strategies?</p></li>
@@ -133,13 +154,13 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 </section>
 <section id="research-products" class="level4">
-<h4 data-anchor-id="research-products">Research Products</h4>
+<h4 class="anchored" data-anchor-id="research-products">Research Products</h4>
 <p>2024 State of the Estuary Poster</p>
 <p><img src="images/SOE_Poster_031224_updated_TBP.png" class="img-fluid"></p>
 <hr>
 </section>
 <section id="upcoming-research-products" class="level4">
-<h4 data-anchor-id="upcoming-research-products"><strong>Upcoming Research Products</strong></h4>
+<h4 class="anchored" data-anchor-id="upcoming-research-products"><strong>Upcoming Research Products</strong></h4>
 <ul>
 <li><p>Report based on interview and survey findings about governance challenges/successes for adaptation planning, major collaborative forums, and recommendations to support partnered adaptation efforts</p></li>
 <li><p>Report based on survey findings with a supplementary website that will host a map of the adaptation governance network for the Delta and key survey results</p></li>
@@ -152,9 +173,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -175,6 +195,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

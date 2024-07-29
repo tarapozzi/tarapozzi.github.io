@@ -5,7 +5,7 @@ website:
     background: darkolivegreen
 ---
 
-#### Environmental Justice Networks 
+#### Environmental Justice Networks
 
 Abstract: Environmental justice (EJ) groups rely on informal collaborative networks to amplify their voices and mobilize resources for addressing disproportionate environmental burdens. These networks, shaped by relationships between EJ groups and their partners, shape the effectiveness of an EJ movement to influence environmental policy and decision-making. Drawing from social movement literature, we examine how resource exchange motivations and boundary definition drivers affect EJ groups' partner preferences among EJ groups in the Sacramento-San Joaquin Delta region of California. Using network data from 21 EJ groups gathered through interviews, we implement a cross-classified generalized linear mixed model to estimate the effects of organizational attributes and collaborative participation, EJ commitment and issue focus areas, and geography on the likelihood of collaboration ties in egocentric social networks. Overall, we find evidence of both strong and weak ties occurring in partner selection. EJ groups seek partners with shared issue focus areas as well as broker organizations who participate in collaborative initiatives. Geographic proximity also plays a key role with groups preferring local partners mostly, but also finding value in partners that operate at larger geographic scales. Overall, the study provides evidence that EJ groups strategically structure personal networks to leverage resources, address issues of concern, and ultimately strengthen the EJ movement.
 
