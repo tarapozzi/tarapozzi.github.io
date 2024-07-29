@@ -8,7 +8,7 @@ website:
         file: index.qmd
       - text: "Project Highlight: Delta Adaptation"
         file: delta.qmd
-      - text: "Research Projects"
+      - text: "Research"
         file: research.qmd
       - text: "CV"
         file: cv.qmd
