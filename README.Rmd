@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "Tara Pozzi"
+date: "2024-09-06"
+output: html_document
+---
+This website was build with Quarto and this github repo has all the code to build of your own!
+
+Have questions? Sent me an email to tbpozzi[at]ucdavis.edu

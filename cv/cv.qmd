@@ -12,7 +12,7 @@ h1.title, h2.subtitle, h3.subtitle {
 }
 </style>
 ```
-##### Updated July 2024
+##### Updated September 2024
 
 ### Education
 
@@ -38,7 +38,8 @@ Thesis: Homeless Garden Project
 
 ### Publications
 
-#### Peer-reviewed publications
+#### Peer-reviewed publications and accepted manuscripts
+Lubell, M., **Pozzi, T.**, Heikkila, T., Gerlak, A. and Rittelmeyer, P. (2024). Learning through Adaptive Management in the California Delta Science Enterprise. *Policy Studies Journal.* \[Conditionally Accepted\]
 
 **Pozzi, T.** Zufall, E., Gmoser-Dasklakis, K., & Vantaggiato, F. (2024). Nascent subsystems in polycentric governance networks: The Case of Sea Level Rise Governance in the San Francisco Bay Area. *Policy Studies Journal*. https://doi.org/10.1111/psj.12549
 
@@ -48,17 +49,15 @@ Rittelmeyer, P., Lubell, M., Hovis, M. Heikkila, T., Gerlak, A., & **Pozzi, T.**
 
 #### Manuscripts in preparation
 
-Lubell, M., **Pozzi, T.**, Heikkila, T., Gerlak, A. and Rittelmeyer, P. (2024). Learning through Adaptive Management in the California Delta Science Enterprise. *Policy Studies Journal.* \[Conditionally Accepted\]
-
 **Pozzi, T.**, Legg, E., McCullough, S., & Lubell, M. Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education. (Environmental Education Research) \[Revise and Resubmit\]
 
-**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024) Choosing Partners in the Environmental Justice Movement: A Case Study in the California Delta. \[In prep\]
+**Pozzi, T.**, Lubell, M., and Rudnick, J. (2024) Leveraging Partnerships in the Environmental Justice Movement: A Case Study in the California Delta. \[In prep\]
 
-**Pozzi, T.** and Lubell, M. (2024) Strategies to overcome barriers to equitable adaptation planning in the California Delta. \[In prep\]
+**Pozzi, T.** and Lubell, M. (2024) Strategies to Effective Adaptation Planning in the California Delta. \[In prep\]
 
 #### Reports
 
-**Pozzi, T.**, Lubell, M., and Correa, L. (2023). The governance of climate adaptation in the California Delta: Summary report. *Report in development for the Delta Science Fellowship.* UC Davis.
+**Pozzi, T.**, Lubell, M., and Correa, L. (2023). The governance of climate adaptation in the California Delta: Summary report. \[In prep\]
 
 **Pozzi, T.** & Lubell, M. (2023). Evolving the monitoring enterprise to meet adaptive management needs in the California Delta. Center for Environmental Policy and Behavior, UC Davis.
 
@@ -87,8 +86,9 @@ Ruwe, C., **Pozzi, T.**, & Miller, J. (2015). Homeless garden project. Civil, En
 ------------------------------------------------------------------------
 
 ### Fellowships and awards
+(Total funding = $163,384)
 
-2024 Henry A. Jastro Research Fellowship - \$3,000
+2024 Henry A. Jastro Research Fellowship - \$2,700
 
 2023 Henry A. Jastro Research Fellowship - \$3,000
 
@@ -172,9 +172,13 @@ Lead researcher. Mixed-methods empirical study on lidar adoption for flood risk 
 
 #### Teaching
 
-Instructor. R-Davis, UC Davis [**2022 – present**]{style="float:right;"}
+Instructor. R-Davis (Graduate Course), UC Davis. [**2022 – present**]{style="float:right;"}
 
-Readership. Public Land Governance, UC Davis. [**2021**]{style="float:right;"}
+Teaching assistant. Public Land Governance (Undergraduate Course), UC Davis. [**2021**]{style="float:right;"}
+
+#### Guest Lectures
+
+Resilience and Environmental Justice (Graduate Course), University of Natural Resources and Life Sciences, Vienna (BOKU). [**2023**]{style="float:right;"}
 
 #### Mentoring
 
@@ -217,7 +221,8 @@ Organizer. GRFP Review Group. [**2020 - 2021**]{style="float:right;"}
 ------------------------------------------------------------------------
 
 ### Affiliations
+Member, Midwest Polistical Science Association [**2023 - Present**]{style="float:right;"}
 
-Member, American Society of Adaptation Professionals [**2022**]{style="float:right;"}
+Member, American Society of Adaptation Professionals [**2022 - Present**]{style="float:right;"}
 
 Member, International Association of Society and Natural Resources [**2020**]{style="float:right;"}

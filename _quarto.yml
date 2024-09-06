@@ -7,11 +7,13 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "Project Highlight: Delta Adaptation"
-        file: delta.qmd
+        file: delta/delta.qmd
       - text: "Research"
-        file: research.qmd
+        file: research/research.qmd
+      - text: "Teaching and Mento[R]ing"
+        file: tm/tm.qmd
       - text: "CV"
-        file: cv.qmd
+        file: cv/cv.qmd
         
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Tara Pozzi"
+subtitle: tbpozzi[at]ucdavis.edu
 about:
   template: broadside
   image: images/IMG_0103.jpeg
@@ -15,6 +16,4 @@ website:
     background: darkolivegreen
 ---
 
-Hello! I am a PhD candidate in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow. Prior to my time at UC Davis, I completed my masters at Boise State University in Human-Environment Systems studying technology adoption for flood risk management in the Pacific Northwest.
-
-My research investigates the governance of climate adaptation planning and policy. Check out my research page for specific information on my current projects!
+Hello! I am a social scientist trying to understand what effective climate solutions look like. I take an interdisciplinary to my research that draws from environental governance, policy process theory, and ecology. I am currently a PhD candidate in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow.
