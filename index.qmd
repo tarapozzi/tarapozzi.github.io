@@ -1,19 +1,33 @@
 ---
-title: "Tara Pozzi"
-subtitle: tbpozzi[at]ucdavis.edu
-about:
-  template: broadside
-  image: images/IMG_0103.jpeg
-  links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/pozzi_tara
-    - icon: github
-      text: Github
-      href: https://github.com/tarapozzi
-website: 
-  navbar: 
-    background: darkolivegreen
+#title: "Tara Pozzi"
+#subtitle: tbpozzi[at]ucdavis.edu
+page-layout: full
 ---
+<div class="gradient-text">
 
-Hello! I am a social scientist trying to understand what effective climate solutions look like. I take an interdisciplinary to my research that draws from environental governance, policy process theory, and ecology. I am currently a PhD candidate in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow.
+<div class="welcome-headline">
+Tara Pozzi <br>
+</div>
+<div class="welcome-subheadline">
+</div>
+</div>
+
+
+::::{.cmm-background}
+::: {.content-container}
+::: {.welcome }
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
+
+Hello! I am a social scientist trying to understand what effective climate solutions look like. I use my interdisciplinary training in water resource engineering and social-ecological systems science to investigate environmental governance challenges. I am currently a PhD candidate in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow. Growing up in a farming family and avid adventurer, I've seen how important relationships are for overcoming adversity in challenging moments. Check out my website to see how I've been applying my training and motivations to research and teaching!
+:::
+
+:::
+
+
+
+:::
+:::
+::::
+

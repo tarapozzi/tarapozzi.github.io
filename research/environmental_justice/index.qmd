@@ -1,0 +1,28 @@
+---
+title: "Environmental Justice"
+image: featured.jpg
+listing:
+  id: publications # setting the id tells allows you to specify where you want it to appear
+  template: ../../_ejs/publications-people.ejs
+  contents: ../../publications/ej/**/*.qmd
+  sort: "pub_number desc"
+  page-size: 30
+  filter-ui: true
+  categories: true
+  fields: [image, pub_number, title, publication, author, url_source]
+---
+
+![](featured.jpg)
+
+Effective climate solutions are ones that prioritize the safety and resilience of everyone, particularly low income communities, communities of color, and Tribal communities. My work examine ways government agencies and nonprofit organizations can support the goals of EJ communities. Some questions I am particularly interested in: 
+
+-   What factors are most important for successful EJ partnerships?
+
+-   Which collaborative governance processes meaningfully involve and benefit EJ communities?
+
+-   How can EJ efforts be scaled up while meeting community- and place-specific needs?
+
+## Related Outputs
+
+::: {#publications}
+:::

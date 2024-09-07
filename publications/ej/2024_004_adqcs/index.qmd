@@ -1,0 +1,16 @@
+---
+title: "Developing a Theory of Change for Integrating Equity into Climate Change Graduate Education."
+date: 2024-09-01
+author: ["Tara Pozzi", "Ellie Legg", "Sarah McCullough", "Mark Lubell"]
+publication: 
+categories:
+  - "environmental_justice"
+url_source: 
+url_preprint: 
+journ: Environmental Education Research
+issue: revise and resubmit
+page: 
+year: 
+pub_number: 7
+image: "featured.png"
+---

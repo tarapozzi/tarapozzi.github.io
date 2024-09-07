@@ -1,26 +1,52 @@
-name: "my-website"
-website:
-  navbar:
-    title: "Tara Pozzi"
-    search: true
-    left:
-      - text: "Home"
-        file: index.qmd
-      - text: "Project Highlight: Delta Adaptation"
-        file: delta/delta.qmd
-      - text: "Research"
-        file: research/research.qmd
-      - text: "Teaching and Mento[R]ing"
-        file: tm/tm.qmd
-      - text: "CV"
-        file: cv/cv.qmd
-        
-
-
 project:
   type: website
-  output-dir: docs
-output: 
-  html_document: 
-   theme: darkly
-   css: style.css
+  
+name: "my-website"
+website:
+  page-footer: 
+    background: "#F6F5F3"
+    center: © 2024  &middot; Made with {{< fa brands r-project >}} 
+      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
+    right:
+      - icon: github
+        href: https://github.com/tarapozzi
+  navbar:
+    title: ""
+    search: true
+    background: darkolivegreen
+    left:
+      - href: index.qmd
+        text: About
+      - href: delta/delta.qmd
+        text: "Highlight: Delta Adaptation"
+      - href: research/index.qmd
+        text: Research
+      - href: publications/index.qmd
+        text: "Writing"
+      - href: tm/tm.qmd
+        text: "Teaching and Mento[R]ing"
+      - href: cv/CV_tbp_0924.pdf
+        text: CV
+    right: 
+      - icon: github
+        href: https://github.com/tarapozzi
+        
+      - icon: twitter
+        href: https://x.com/pozzi_tara
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.fr/citations?user=-f4JqukAAAAJ&hl=en&oi=ao
+      - text: Email
+        href: tbpozzi@ucdavis.edu
+        
+format:
+  html:
+    theme: 
+      - styles/custom.scss
+      - yeti
+    mainfont: Nunito Sans
+    toc: true
+    link-external-newwindow: true
+    date-format: "MMM YYYY"
+    smooth-scroll: true
+    resources:
+      - images

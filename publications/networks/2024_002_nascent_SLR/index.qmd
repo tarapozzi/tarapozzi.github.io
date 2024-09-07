@@ -1,0 +1,16 @@
+---
+title: "Nascent policy subsystems in polycentric governance networks: The case of sea-level rise governance in the San Francisco Bay Area"
+date: 2024-07-15
+author: ["Tara Pozzi", "Elise Zufall", "Kyra Gmoser-Daskalakis", "Francesca Vantaggiato"]
+publication: 
+categories:
+  - "social_networks"
+url_source: 
+url_preprint: https://onlinelibrary.wiley.com/doi/full/10.1111/psj.12549
+journ: Policy Studies Journal
+issue: 52
+page: 561-581
+year: 2024
+image: "featured.jpg"
+pub_number: 5
+---

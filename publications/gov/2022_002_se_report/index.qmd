@@ -1,0 +1,16 @@
+---
+title: "Governing the Delta Science Enterprise: Results from a Stakeholder Survey"
+date: 2022-01-01
+author: ["Mark Lubell", "Tara Pozzi", "Tanya Heikkila", "Andrea K. Gerlak"]
+publication: 
+categories: 
+  - "science_gov"
+url_source: https://environmentalpolicy.ucdavis.edu/sites/g/files/dgvnsk6866/files/inline-files/Delta%20Science%20Enterprise%20Survey%20Report%20Final%20January%202022.pdf
+url_preprint: 
+journ: Center for Environmental Policy and Behavior, UC Davis.
+issue: 
+page: 
+year: 
+image: "featured.png"
+pub_number: 2
+---

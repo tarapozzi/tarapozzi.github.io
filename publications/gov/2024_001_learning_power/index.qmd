@@ -1,0 +1,16 @@
+---
+title: "Knowledge is not power: Learning in polycentric governance systems"
+date: 2024-04-03
+author: ["Pamela Rittelmeyer", "Mark Lubell", "Meredith Hovis", "Andrea K. Gerlak","Tanya Heikkila", "Tara Pozzi"]
+publication: 
+categories: 
+  - "science_gov"
+url_source: 
+url_preprint: https://onlinelibrary.wiley.com/doi/full/10.1111/ropr.12606
+journ: Review of Policy Research
+issue: 
+page: 
+year: 
+image: "featured.jpg"
+pub_number: 4
+---

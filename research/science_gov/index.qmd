@@ -1,0 +1,28 @@
+---
+title: "Science Governance"
+image: featured.jpg
+listing:
+  id: publications # setting the id tells allows you to specify where you want it to appear
+  template: ../../_ejs/publications-people.ejs
+  contents: ../../publications/gov/**/*.qmd
+  sort: "pub_number desc"
+  page-size: 30
+  filter-ui: true
+  categories: true
+  fields: [image, pub_number, title, publication, author, url_source]
+---
+
+![](featured.jpg)
+
+Science governance includes the people, organizations, collaborative forums, and rules/laws that organize how science is done and incorporated into decision-making. My research in this area primarily focuses on the science enterprise of the Sacramento-San Joaquin Delta, a well-developed governance arrangement of science forums and actors, that supports the implementation of adaptive management of the Delta. Some of my research questions include:
+
+-   What aspects of collaborative science forums are most important for learning?
+
+-   How can monitoring better align with management needs?
+
+-   Has collaboration spurred agreement on different issues?
+
+## Related Outputs
+
+::: {#publications}
+:::

@@ -1,0 +1,16 @@
+---
+title: "Leveraging Partnerships in the Environmental Justice Movement: A Case Study in the California Delta"
+date: 2024-09-01
+author: ["Tara Pozzi", "Mark Lubell", "Jessica Rudnick"]
+publication: 
+categories:
+  - "environmental_justice"
+url_source: 
+url_preprint: 
+journ: American Journal of Political Science
+issue: In prep.
+page: 
+year: 
+image: "featured.png"
+pub_number: 8
+---

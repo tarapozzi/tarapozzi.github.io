@@ -1,0 +1,16 @@
+---
+title: "Evolving the monitoring enterprise to meet adaptive management needs in the California Delta"
+date: 2023-04-10
+author: ["Tara Pozzi", "Mark Lubell"]
+publication: 
+categories: 
+  - "science_gov"
+url_source: https://drive.google.com/file/d/1CRpVXNtvdPGFuTJaII3gAijRl3PYwz1M/view?usp=sharing
+url_preprint:
+journ: Center for Environmental Policy and Behavior, UC Davis.
+issue: 
+page: 
+year: 
+image: "featured.png"
+pub_number: 3
+---

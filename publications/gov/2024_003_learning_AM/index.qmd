@@ -1,0 +1,16 @@
+---
+title: "Learning through Adaptive Management in the California Delta Science Enterprise"
+date: 2024-09-01
+author: ["Mark Lubell", "Tara Pozzi", "Tanya Heikkila", "Andrea Gerlak", "Pamela Rittelmeyer"]
+publication:
+categories: 
+  - "science_gov"
+url_source: 
+url_preprint:
+journ: Policy Studies Journal
+issue: accepted
+page: 
+year: 
+image: "featured.png"
+pub_number: 6
+---

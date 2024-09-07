@@ -7,6 +7,20 @@ website:
     background: darkolivegreen
 ---
 
+![](IMG_3024.jpeg)
+
 ### Teaching Philosophy
 
-My teaching experience is primarily composed of teaching
+My teaching philosophy comes from teaching life skills to teens in the Idaho desert and R programming to graduate students starting their academic journey at UC Davis. While quite different environments and subjects, both of these experiences center around the same goal: giving students transferable, problem-solving skills for personal growth beyond our time together.
+
+So often R is taught in conjunction with statistical applications and students do not learn fundamental project management and the *why* of R coding. R-DAVIS (R - Data Analysis and Visualization) is an introduction to R class that first and second year graduate students (from Graduate Group of Ecology, Environmental Policy and Management, and Transportation Technology and Policy Graduate Group) take to understand the mechanics of R. With a classroom of about 50 students, I try to normalize the imperfect and awkward nature that is coding. Through a mix of some pre-recorded lectures so students can learn skills at their own pace and in-person lecture and workshop time, my co-instructors and I create a classroom that can fit a range of programming skills. We use weekly anonymous check-ins to adjust the class pace as needed.
+
+### Mento\[R\]ing
+
+I am one of the coo\[R\]dinators for [UC Davis' R Users Group](https://d-rug.github.io/) (D-RUG). We meet once a week for two hours for a hybrid help session where folks can come in with R questions, work time with other R users, or to listen to one of mini-workshops. I also enjoy mentoring students outside of D-RUG and provide one-on-one training in R and collaborative project management.
+
+Here are a couple mini-workshops I've put together:
+
+[Introduction to brms](https://d-rug.github.io/intro_to_brms/) (Bayesian analysis in R)
+
+[Introduction to spatial mapping](https://d-rug.github.io/intro_to_spatial_mapping/)

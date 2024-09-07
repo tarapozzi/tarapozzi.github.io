@@ -1,0 +1,17 @@
+---
+title: "Strategies for effective adaptation planning in the California Delta"
+date: 2024-09-01
+author: ["Tara Pozzi", "Mark Lubell", "Lindsay Correa"]
+publication: 
+categories: 
+  - "environmental_justice"
+  - "social_networks"
+url_source: 
+url_preprint: 
+journ: Center for Environmental Policy and Behavior, UC Davis.
+issue: In prep.
+page: 
+year: 
+image: "featured.png"
+pub_number: 9
+---

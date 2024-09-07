@@ -1,0 +1,17 @@
+---
+title: "Social networks impact flood risk mitigation behavior: A case study of lidar adoption in the Pacific Northwest, US"
+date: 2023-01-01
+author: ["Tara Pozzi", "Vicken Hillis"]
+publication: "Climate Risk Management, **41**, _100527_ (2023)."
+categories: 
+  - "social_networks"
+url_source: https://www.sciencedirect.com/science/article/pii/S2212096323000530
+url_preprint: 
+journ: "Climate Risk Management"
+issue: 41
+page: 100527
+year: 2023
+image: "featured.jpg"
+pub_number: 1
+---
+

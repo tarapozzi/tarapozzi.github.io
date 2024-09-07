@@ -17,7 +17,7 @@ Tara Pozzi^1^, Dr. Mark Lubell^1^, Lindsay Correa^2^
 
 #### **Project Overview**
 
-![](images/delta_adapation_schematic.png)
+![](delta_adapation_schematic.png)
 
 The Delta region faces numerous challenges, including flooding, extreme heat, and poor air and water quality. Addressing these issues requires collaboration among a complex network of government agencies, non-governmental organizations, communities, and Tribes.
 
@@ -53,7 +53,7 @@ Understanding the governance landscape is a key step in learning how to leverage
 
 2024 State of the Estuary Poster
 
-![](images/SOE_Poster_031224_updated_TBP.png)
+![](SOE_Poster_031224_updated_TBP.png)
 
 ------------------------------------------------------------------------
 

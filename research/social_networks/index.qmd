@@ -1,0 +1,30 @@
+---
+title: "Climate Adaptation"
+image: featured.jpg
+listing:
+  id: publications # setting the id tells allows you to specify where you want it to appear
+  template: ../../_ejs/publications-people.ejs
+  contents: ../../publications/networks/**/*.qmd
+  sort: "pub_number desc"
+  page-size: 30
+  filter-ui: true
+  categories: true
+  fields: [image, pub_number, title, publication, author, url_source]
+---
+
+![](IMG_3777.jpeg)
+
+Climate impacts, and our physical and social vulnerability to them, vary widely across the landscape. Often occurring at a scale much larger than jurisdictional boundaries, hazards such as flooding, extreme heat, and drought bring previously disparate agencies and organizations together to prioritize adaptation strategies. My research investigates how people decipher through the sticky process of collaboration and decision-making for adaptation projects given capacity constraints and community needs. Some questions I am particularly interested in: 
+
+-   What are effective strategies to overcoming barriers to adaptation (e.g., lack of funding, conflicting priorities)?
+
+-   How can existing governance structures be leveraged to more effectively implement adaptation?
+
+-   How do adaptation needs differ between urban and rural contexts?
+
+-   How can collaborative initiatives be improved to better fill in coordination gaps?
+
+## Related Outputs
+
+::: {#publications}
+:::
