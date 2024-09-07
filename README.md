@@ -5,3 +5,5 @@ This website was build with Quarto and this github repo has all the code to buil
 Have questions? Sent me an email to tbpozzi[at]ucdavis.edu
 
 Shout out to David Masiello for major website inspiration & from which I got a lot of this code.
+
+Built using Github Workflow.
