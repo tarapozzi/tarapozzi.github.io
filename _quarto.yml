@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   
 name: "my-website"
 website:
@@ -30,13 +31,12 @@ website:
     right: 
       - icon: github
         href: https://github.com/tarapozzi
-        
       - icon: twitter
         href: https://x.com/pozzi_tara
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.fr/citations?user=-f4JqukAAAAJ&hl=en&oi=ao
       - text: Email
-        href: tbpozzi@ucdavis.edu
+        href: tbpozzi@ucdavis.edu  
         
 format:
   html:
