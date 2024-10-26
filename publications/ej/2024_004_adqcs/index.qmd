@@ -5,7 +5,7 @@ author: ["Tara Pozzi", "Ellie Legg", "Sarah McCullough", "Mark Lubell"]
 publication: 
 categories:
   - "environmental_justice"
-url_source: 
+url_source: https://www.tandfonline.com/doi/full/10.1080/13504622.2024.2411310
 url_preprint: 
 journ: Environmental Education Research
 issue: revise and resubmit
