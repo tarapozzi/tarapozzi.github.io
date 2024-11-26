@@ -5,7 +5,7 @@ author: ["Tara Pozzi", "Mark Lubell", "Jessica Rudnick"]
 publication: 
 categories:
   - "environmental_justice"
-url_source: EJ_Networks_Brief.pdf
+url_source: https://tarapozzi.github.io/publications/ej/2024_005_ej_networks/EJ_Networks_Brief.pdf 
 url_preprint: 
 journ: American Journal of Political Science
 issue: In prep.
