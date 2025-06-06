@@ -17,6 +17,8 @@ Tara Pozzi^1^, Dr. Mark Lubell^1^, Lindsay Correa^2^
 
 #### **Project Overview**
 
+**Check out the [project website](https://tarapozzi.shinyapps.io/delta_adaptation/) for the summary report and interactive data explorer!**
+
 ![](delta_adapation_schematic.png)
 
 The Delta region faces numerous challenges, including flooding, extreme heat, and poor air and water quality. Addressing these issues requires collaboration among a complex network of government agencies, non-governmental organizations, communities, and Tribes.
