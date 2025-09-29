@@ -1,5 +1,5 @@
 ---
-#title: "Tara Pozzi"
+#title: "Dr. Tara Pozzi"
 #subtitle: tpozzi[at]ucsd.edu
 page-layout: full
 ---
