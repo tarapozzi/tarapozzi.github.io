@@ -1,6 +1,6 @@
 ---
-title: "Environmental Justice"
-image: featured.jpg
+title: "Community Resilience"
+image: featured.png
 listing:
   id: publications # setting the id tells allows you to specify where you want it to appear
   template: ../../_ejs/publications-people.ejs
@@ -12,15 +12,15 @@ listing:
   fields: [image, pub_number, title, publication, author, url_source]
 ---
 
-![](featured.jpg)
+![](featured.png)
 
-Effective climate solutions are ones that prioritize the safety and resilience of everyone, particularly low income communities, communities of color, and Tribal communities. My work examine ways government agencies and nonprofit organizations can support the goals of EJ communities. Some questions I am particularly interested in: 
+Effective climate solutions are ones that prioritize the safety and resilience of everyone, particularly frontline communities. Some questions I am particularly interested in: 
 
--   What factors are most important for successful EJ partnerships?
+-   What factors are most important for successful governmental and non-governmental partnerships?
 
--   Which collaborative governance processes meaningfully involve and benefit EJ communities?
+-   Which collaborative governance processes meaningfully involve and benefit frontline communities?
 
--   How can EJ efforts be scaled up while meeting community- and place-specific needs?
+-   How can collaborative adpaption efforts be scaled up while meeting community- and place-specific needs?
 
 ## Related Outputs
 

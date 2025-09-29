@@ -18,25 +18,27 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: delta/delta.qmd
-        text: "Highlight: Delta Adaptation"
+      #- href: delta/delta.qmd
+        #text: "Highlight: Delta Adaptation" # archived
       - href: research/index.qmd
-        text: Research
+        text: Priority Areas
+     # - href: ex/extension.qmd
+        #text: "Extension"
       - href: publications/index.qmd
-        text: "Writing"
-      - href: tm/tm.qmd
-        text: "Teaching and Mento[R]ing"
-      - href: cv/CV_tbp_0625.pdf
+        text: "Writing" 
+      #- href: tm/tm.qmd
+        #text: "Teaching and Mento[R]ing" # archived
+      - href: cv/CV_tbp.pdf
         text: CV
     right: 
       - icon: github
         href: https://github.com/tarapozzi
-      - icon: twitter
-        href: https://x.com/pozzi_tara
+      #- icon: twitter
+        #href: https://x.com/pozzi_tara
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.fr/citations?user=-f4JqukAAAAJ&hl=en&oi=ao
       - text: Email
-        href: tbpozzi@ucdavis.edu  
+        href: tpozzi@ucsd.edu 
         
 format:
   html:

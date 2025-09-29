@@ -1,6 +1,6 @@
 ---
 #title: "Tara Pozzi"
-#subtitle: tbpozzi[at]ucdavis.edu
+#subtitle: tpozzi[at]ucsd.edu
 page-layout: full
 ---
 <div class="gradient-text">
@@ -20,7 +20,8 @@ Tara Pozzi <br>
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
 
-Hello! I am a social scientist curious about what effective environmental governance look like. I use my interdisciplinary training in water resource engineering and social-ecological systems science to investigate water and natural resource management challenges. I am currently a PhD candidate in the Graduate Group of Ecology and Center for Environmental Policy and Behavior at UC Davis, as well as a Delta Science Fellow. Check out my website to learning more about my research and teaching!
+Hello! I am the CA Sea Grant Social Science Extension Specialist for the Sacramento-San Joaquin Delta. My research and extension program focuses on interorganizational collaboration in the Delta, tradeoffs/opportunities for adaptation strategies, and community resilience. I recently graduated with my PhD in Ecology from UC Davis and was a 2022 Delta Science Fellow. Check out my website to learning more about my work priorities. 
+
 :::
 
 :::

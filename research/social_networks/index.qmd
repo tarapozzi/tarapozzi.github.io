@@ -1,5 +1,5 @@
 ---
-title: "Climate Adaptation"
+title: "Watershed Adaptation Planning and Management"
 image: featured.jpg
 listing:
   id: publications # setting the id tells allows you to specify where you want it to appear
