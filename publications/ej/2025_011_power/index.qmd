@@ -1,0 +1,16 @@
+---
+title: "Building Power in Polycentric Governance Systems"
+date: 2025-09-01
+author: ["Tara Pozzi", "Mark Lubell", "Linda Méndez-Barrientos"]
+publication: 
+categories: 
+  - "environmental_justice"
+url_source: 
+url_preprint: 
+journ: Public Administration Review
+issue: In prep.
+page: 
+year: 
+image: "power.png"
+pub_number: 11
+---

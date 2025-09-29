@@ -1,15 +1,16 @@
 ---
-title: "Collaborative governance of climate adaptation in the California Delta"
-date: 2022-01-01
+title: "The Governance of Climate Adaptation in the California Delta: Summary Report"
+date: 2025-03-01
 author: ["Tara Pozzi", "Mark Lubell",  "Lindsay Correa"]
 publication: 
 categories:
-  - "social_networks"
-url_source: 
+  - "adaptation"
+url_source: https://drive.google.com/file/d/1jd6InDWFCsyMSV8irYQtk7jaVDLXpAcP/view?usp=drive_link
 url_preprint: 
 journ: Center for Environmental Policy and Behavior, UC Davis.
-issue: In prep.
+issue: 
 page: 
 year: 
+image: "summary_report.png"
 pub_number: 10
 ---
