@@ -20,7 +20,7 @@ Tara Pozzi <br>
 ::: grid
 ::: {.g-col-12 .g-col-lg-4 .welcome-text .sand-background style="padding: 15px;"}
 
-Hello! I am the CA Sea Grant Social Science Extension Specialist for the Sacramento-San Joaquin Delta. My research and extension program focuses on interorganizational collaboration in the Delta, tradeoffs/opportunities for adaptation strategies, and community resilience. I recently graduated with my PhD in Ecology from UC Davis and was a 2022 Delta Science Fellow. Check out my website to learning more about my work priorities. 
+Hello! I am the CA Sea Grant Social Science Extension Specialist for the Sacramento-San Joaquin Delta. My research and extension program focuses on inter-organizational collaboration in the Delta, tradeoffs/opportunities for adaptation strategies, and community resilience. I recently graduated with my PhD in Ecology from UC Davis and was a 2022 Delta Science Fellow. Check out my website to learn more about my work priorities. 
 
 :::
 
