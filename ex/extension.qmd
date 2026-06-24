@@ -1,0 +1,12 @@
+---
+title: "Extension"
+format: html
+editor: visual
+website: 
+  navbar: 
+    background: darkolivegreen
+---
+
+# Social Science Community of Practice
+
+# Delta Climate Adaptation Team

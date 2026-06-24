@@ -1,5 +1,5 @@
 ---
-title: Topics
+title: Research Priorities
 listing:
   id: research
   type: grid
