@@ -35,8 +35,6 @@ website:
     right: 
       - icon: github
         href: https://github.com/tarapozzi
-      #- icon: twitter
-        #href: https://x.com/pozzi_tara
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.fr/citations?user=-f4JqukAAAAJ&hl=en&oi=ao
       - text: Email
