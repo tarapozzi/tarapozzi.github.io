@@ -6,6 +6,13 @@
 
 data/
 
+# quarto stuff
 /.quarto/
+**/*.quarto_ipynb
 
 /_site
+
+# Mac files
+.DS_Store
+
+

@@ -2,12 +2,14 @@ project:
   type: website
   output-dir: docs
   
+execute:
+  freeze: auto
+  
 name: "my-website"
 website:
   page-footer: 
     background: "#F6F5F3"
-    center: © 2024  &middot; Made with {{< fa brands r-project >}} 
-      [![](https://quarto.org/quarto.png){fig-alt="Quarto" width=65px}](https://quarto.org/) 
+    center: "Copyright &copy; 2026, Tara Pozzi" 
     right:
       - icon: github
         href: https://github.com/tarapozzi
@@ -21,7 +23,7 @@ website:
       #- href: delta/delta.qmd
         #text: "Highlight: Delta Adaptation" # archived
       - href: research/index.qmd
-        text: Priority Areas
+        text: "Research"
      # - href: ex/extension.qmd
         #text: "Extension"
       - href: publications/index.qmd
@@ -48,6 +50,7 @@ format:
     mainfont: Nunito Sans
     toc: true
     link-external-newwindow: true
+    link-external-icon: false
     date-format: "MMM YYYY"
     smooth-scroll: true
     resources:
